@@ -106,29 +106,19 @@ Drag and drop the `build/` folder to [https://app.netlify.com/drop](https://app.
 
 This project is licensed under the **MIT License**. See the `LICENSE` file.
 
-#🙏 Acknowledgments
+🙏 Acknowledgments
+React.js for the powerful UI framework
+JavaScript (ES6+) for modern language features
+CSS3 for styling and layout
+GitHub for code hosting and collaboration
+Stack Overflow Community for helpful solutions and advice
+Open Source Community for inspiration and best practices
 
-React.js - For providing the amazing framework that made this project possible.
-
-JavaScript ES6+ - For modern class syntax and array methods.
-
-CSS3 - For beautiful styling and animations.
-
-GitHub - For hosting and version control.
-
-Stack Overflow Community - For helpful solutions and debugging tips.
-
-Open Source Community - For inspiration and best practices.
-
-#💬 Support
-
-If you have any questions, suggestions, or run into issues:
-Ways to Get Help:
-🐛 Report Bugs: Open an issue on GitHub with detailed description
-
-💡 Feature Requests: Suggest new features via GitHub issues
-
-📧 Contact: Reach out via GitHub discussions
+📞 Support
+If you encounter any issues or have questions:
+Check the Troubleshooting section in the README
+Create an issue on GitHub
+Start a discussion or contact the project maintainer via GitHub
 
 ⭐ Star the Repo: Show your support by starring this project
 
