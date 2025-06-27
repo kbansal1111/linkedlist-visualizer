@@ -115,16 +115,15 @@ This project is licensed under the **MIT License**. See the `LICENSE` file.
 - **Stack Overflow Community** for helpful solutions and advice  
 - **Open Source Community** for inspiration and best practices  
 
-## 📞 Support
+# 📞 Support
 
 If you encounter any issues or have questions:
 
 - Check the **Troubleshooting** section in the README  
 - Create an **issue on GitHub**  
-- Start a **discussion** or contact the **project maintainer** via GitHub 
+- Start a **discussion** or contact the **project maintainer** via GitHub
+  
 
-⭐ Star the Repo: Show your support by starring this project
-
+**⭐ Star the Repo: Show your support by starring this project**
 
 **Built with 💙 for students learning Data Structures.**
-
