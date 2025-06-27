@@ -45,7 +45,7 @@ npm install
 npm start
 ```
 
-**App runs at: `[http://localhost:3000](https://linkedlist-visualizer.netlify.app/)`**
+App runs at: `http://localhost:3000`
 
 #🔧 Configuration
 All configuration is self-contained. You can adjust UI behavior or styles via:
