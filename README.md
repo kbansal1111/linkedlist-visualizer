@@ -2,6 +2,7 @@
 
 **Linked List Visualizer is an interactive web-based tool built using React that allows users to simulate and visualize operations on a Linked List. It is designed for students, educators, and developers to understand and demonstrate how linked lists work through real-time animations and clean UI.**
 
+![Screenshot (33)](https://github.com/user-attachments/assets/952b8036-60f7-463b-a9ab-c3883db456cc)
 
 ![logo192](https://github.com/user-attachments/assets/90aa3610-2112-4de7-b1da-b406e8d4c7b3)
 
