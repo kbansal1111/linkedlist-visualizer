@@ -54,6 +54,9 @@ src/data/linkedlistclass.js - Data structure implementation
 src/components/LinkedListSimulator.js - UI component configuration
 package.json - Project dependencies and scripts
 
+📁 Project Structure
+<pre> LinkedList Simulator/ │ ├── linkedlist_simulator/ # Main project directory │ ├── package.json # Node.js dependencies and scripts │ ├── package-lock.json # Locked versions of dependencies │ ├── README.md # Project documentation │ │ ├── public/ # Static assets (served directly) │ │ ├── index.html # Main HTML template │ │ ├── favicon.ico # Browser tab icon │ │ ├── logo192.png # App logo (192x192) │ │ ├── logo512.png # App logo (512x512) │ │ ├── manifest.json # PWA configuration │ │ ├── robots.txt # Search engine instructions │ │ └── github-logo.jpg # GitHub repository link icon │ │ └── src/ # Source code directory │ ├── App.js # Main React component (app entry point) │ ├── App.css # Global styles and component styles │ ├── index.js # React app initialization │ │ ├── components/ # React components directory │ │ └── LinkedListSimulator.js # Main simulator UI component │ │ # (handles user interactions and display) │ │ └── data/ # Data structures and algorithms │ └── linkedlistclass.js # Custom LinkedList class implementation │ (Node class + LinkedList methods) </pre>
+
 LinkedList Simulator/
 │
 ├── linkedlist_simulator/                    # Main project directory
