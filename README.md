@@ -125,9 +125,13 @@ Open Source Community - For inspiration and best practices.
 If you have any questions, suggestions, or run into issues:
 Ways to Get Help:
 🐛 Report Bugs: Open an issue on GitHub with detailed description
+
 💡 Feature Requests: Suggest new features via GitHub issues
+
 📧 Contact: Reach out via GitHub discussions
+
 ⭐ Star the Repo: Show your support by starring this project
 
+
 **Built with 💙 for students learning Data Structures.**
-this is the whole readme file make it structure and with heading bold
+
