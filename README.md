@@ -109,10 +109,15 @@ This project is licensed under the **MIT License**. See the `LICENSE` file.
 #🙏 Acknowledgments
 
 React.js - For providing the amazing framework that made this project possible.
+
 JavaScript ES6+ - For modern class syntax and array methods.
+
 CSS3 - For beautiful styling and animations.
+
 GitHub - For hosting and version control.
+
 Stack Overflow Community - For helpful solutions and debugging tips.
+
 Open Source Community - For inspiration and best practices.
 
 #💬 Support
