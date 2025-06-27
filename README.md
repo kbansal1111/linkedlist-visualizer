@@ -45,15 +45,43 @@ npm install
 npm start
 ```
 
-App runs at: `http://localhost:3000`
+App runs at: `[http://localhost:3000](https://linkedlist-visualizer.netlify.app/)`
 
 🔧 Configuration
-
 All configuration is self-contained. You can adjust UI behavior or styles via:
-- `src/utils/constants.js` (optional)
-- `tailwind.config.js`
+src/App.css - Main styling and component styles
+src/data/linkedlistclass.js - Data structure implementation
+src/components/LinkedListSimulator.js - UI component configuration
+package.json - Project dependencies and scripts
 
----
+LinkedList Simulator/
+│
+├── linkedlist_simulator/                    # Main project directory
+│   ├── package.json                        # Node.js dependencies and scripts
+│   ├── package-lock.json                   # Locked versions of dependencies
+│   ├── README.md                           # Project documentation
+│   │
+│   ├── public/                             # Static assets (served directly)
+│   │   ├── index.html                      # Main HTML template
+│   │   ├── favicon.ico                     # Browser tab icon
+│   │   ├── logo192.png                     # App logo (192x192)
+│   │   ├── logo512.png                     # App logo (512x512)
+│   │   ├── manifest.json                   # PWA configuration
+│   │   ├── robots.txt                      # Search engine instructions
+│   │   └── github-logo.jpg                 # GitHub repository link icon
+│   │
+│   └── src/                                # Source code directory
+│       ├── App.js                          # Main React component (app entry point)
+│       ├── App.css                         # Global styles and component styles
+│       ├── index.js                        # React app initialization
+│       │
+│       ├── components/                     # React components directory
+│       │   └── LinkedListSimulator.js      # Main simulator UI component
+│       │                                   # (handles user interactions and display)
+│       │
+│       └── data/                           # Data structures and algorithms
+│           └── linkedlistclass.js          # Custom LinkedList class implementation
+│                                           # (Node class + LinkedList methods)
 
 📚 Usage Guide
 
@@ -74,5 +102,21 @@ Drag and drop the `build/` folder to [https://app.netlify.com/drop](https://app.
 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file.
+
+🙏 Acknowledgments
+React.js - For providing the amazing framework that made this project possible
+JavaScript ES6+ - For modern class syntax and array methods
+CSS3 - For beautiful styling and animations
+GitHub - For hosting and version control
+Stack Overflow Community - For helpful solutions and debugging tips
+Open Source Community - For inspiration and best practices
+
+💬 Support
+If you have any questions, suggestions, or run into issues:
+Ways to Get Help:
+🐛 Report Bugs: Open an issue on GitHub with detailed description
+💡 Feature Requests: Suggest new features via GitHub issues
+📧 Contact: Reach out via GitHub discussions
+⭐ Star the Repo: Show your support by starring this project
 
 Built with 💙 for students learning Data Structures.
